@@ -1,1 +1,1 @@
-crates a scripts that moves all files beginning with an uppercase letter to the directory
+crates a scripts that deletes all files in the current working directory that end with character~.
