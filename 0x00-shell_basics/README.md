@@ -1,2 +1,1 @@
-
-iDisplay the contents list of your current directory.
+script that create a directory named my_first_directory
