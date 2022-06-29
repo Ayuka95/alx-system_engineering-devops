@@ -1,2 +1,1 @@
-script that print the absulut path 
-Display the contents list of your current directory.
+19.create a magic file............................
