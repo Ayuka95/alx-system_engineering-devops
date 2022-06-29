@@ -1,1 +1,1 @@
-0.write a script hellow world
+1.write a script that display a confused smiley
