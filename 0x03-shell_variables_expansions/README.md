@@ -1,1 +1,1 @@
-6.create a script that creates a new local variable.
+7.create a script that creats a new global variable
