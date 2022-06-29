@@ -1,1 +1,1 @@
-6.write a script that displays the third line of the file iacta
+6.write a shell script that crates a file named exactly 
